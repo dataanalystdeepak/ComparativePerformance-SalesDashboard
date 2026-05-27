@@ -3,7 +3,7 @@
 
 A dynamic and interactive Sales Dashboard built to analyze business performance across multiple dimensions. This dashboard provides comparative insights between the Current Year (CY) and Previous Year (PY), with the flexibility to select any year as the baseline.
 
-🔗 Live Dashboard: View on Tableau Public
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/ComparativePerformance-SalesDashboard/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
